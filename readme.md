@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harshita Kudarha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<br/>
+
+![logo](https://github.com/rahulsing23/rahulsing23/blob/main/banner.jpg)
+
+
+
 <img align="right" alt="GIF" height="200px" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" />
 
 
