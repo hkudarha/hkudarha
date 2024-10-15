@@ -3,7 +3,7 @@
 
 <br/>
 
-![logo](https://wallpapercave.com/wp/wp2234539.jpg)
+![logo](https://github.com/hkudarha/hkudarha/blob/main/banner.jpg)
 
 
 
