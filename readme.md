@@ -12,9 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlkudarha&label=Profile%20views&color=0e75b6&style=flat" alt="hlkudarha" /> </p>
 
-- 🔭 I’m currently working on [Dawnsun](https://demo-algoincube.shop/) and [Ecommerce](https://p1-xi-coral.vercel.app/)
+- 🔭 I’m currently working on [Dawnsun](https://demo-algoincube.shop/) and [Ecommerce](https://rudrakshya-printing-house.netlify.app/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nodejs**
 
 - 📫 How to reach me **hkudarha@gmail.com**
 
@@ -38,7 +38,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkudarha&show_icons=true&locale=en&layout=compact" alt="hkudarha" /></p>
-
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkudarha&" alt="hkudarha" /></p>
 
