@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Dawnsun](https://demo-algoincube.shop/) and [Ecommerce](https://rudrakshya-printing-house.netlify.app/)
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **hkudarha@gmail.com**
 
