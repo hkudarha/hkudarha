@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlkudarha&label=Profile%20views&color=0e75b6&style=flat" alt="hlkudarha" /> </p>
 
-- 🔭 I’m currently working on [1Trade] and [Ecommerce](https://rudrakshya-printing-house.netlify.app/)
+- 🔭 I’m currently working on [1Trade](https://github.com/hkudarha/1trade) and [Ecommerce](https://rudrakshya-printing-house.netlify.app/)
 
 - 🌱 I’m currently learning **Next.js**
 
